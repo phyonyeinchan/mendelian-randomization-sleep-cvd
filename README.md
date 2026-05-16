@@ -57,4 +57,4 @@ This project operates via the specialized `TwoSampleMR` analytical architecture 
 ---
 
 ## 🔗 8. Live Interactive Report
-[👉 CLICK HERE TO VIEW THE FULL INTERACTIVE GENOMIC REPORT](https://github.io)
+[👉 CLICK HERE TO VIEW THE FULL INTERACTIVE GENOMIC REPORT] (https://phyonyeinchan.github.io/mendelian-randomization-sleep-cvd/sleep_cvd_mr_analysis.html)
